@@ -1,0 +1,31 @@
+{
+    "1": {
+        "type": "mcq",
+        "question": "multiple choice question",
+        "options": {"a": "choice here", "b": "choice here", "c": "choice here", "d": "choice here"},
+        "correct": "a",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence on why the correct answer is correct"
+    },
+    "2": {
+        "type": "true_false",
+        "question": "a true or false statement based on the text",
+        "correct": "True",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence on why the statement is true or false"
+    },
+    "3": {
+        "type": "fill_blank",
+        "question": "a sentence from the text with a key term replaced by ____",
+        "correct": "the missing word or short phrase",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence giving context for the answer"
+    },
+    "4": {
+        "type": "short_answer",
+        "question": "an open-ended question testing understanding of the text",
+        "correct": "a concise model answer (1-2 sentences)",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "what a good answer should cover"
+    }
+}

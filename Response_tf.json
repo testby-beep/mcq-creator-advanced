@@ -1,0 +1,16 @@
+{
+    "1": {
+        "type": "true_false",
+        "question": "a true or false statement based on the text",
+        "correct": "True",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence on why the statement is true or false"
+    },
+    "2": {
+        "type": "true_false",
+        "question": "a true or false statement based on the text",
+        "correct": "False",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence on why the statement is true or false"
+    }
+}

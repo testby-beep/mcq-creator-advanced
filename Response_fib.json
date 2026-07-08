@@ -1,0 +1,16 @@
+{
+    "1": {
+        "type": "fill_blank",
+        "question": "a sentence from the text with a key term replaced by ____",
+        "correct": "the missing word or short phrase",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence giving context for the answer"
+    },
+    "2": {
+        "type": "fill_blank",
+        "question": "a sentence from the text with a key term replaced by ____",
+        "correct": "the missing word or short phrase",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence giving context for the answer"
+    }
+}

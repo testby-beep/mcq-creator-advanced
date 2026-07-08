@@ -1,0 +1,21 @@
+streamlit==1.35.0
+python-dotenv==1.0.1
+
+# LLM stack (pinned together -- newer langchain 0.2+/0.3+ changes import paths
+# and this app uses the legacy SequentialChain/LLMChain API)
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
+langchain-groq==0.1.3
+langchain-openai==0.1.7
+langchain-anthropic==0.1.4
+
+# File handling
+pypdf==4.2.0
+python-docx==1.1.2
+fpdf2==2.8.7
+youtube-transcript-api==0.6.2
+
+# Data / reliability
+pandas==2.2.2
+tenacity==8.3.0

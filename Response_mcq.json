@@ -1,0 +1,26 @@
+{
+    "1": {
+        "type": "mcq",
+        "question": "multiple choice question",
+        "options": {"a": "choice here", "b": "choice here", "c": "choice here", "d": "choice here"},
+        "correct": "correct option letter, e.g. a",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence on why the correct answer is correct"
+    },
+    "2": {
+        "type": "mcq",
+        "question": "multiple choice question",
+        "options": {"a": "choice here", "b": "choice here", "c": "choice here", "d": "choice here"},
+        "correct": "correct option letter, e.g. a",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence on why the correct answer is correct"
+    },
+    "3": {
+        "type": "mcq",
+        "question": "multiple choice question",
+        "options": {"a": "choice here", "b": "choice here", "c": "choice here", "d": "choice here"},
+        "correct": "correct option letter, e.g. a",
+        "bloom_level": "Remember | Understand | Apply | Analyze | Evaluate | Create",
+        "explanation": "one short sentence on why the correct answer is correct"
+    }
+}
